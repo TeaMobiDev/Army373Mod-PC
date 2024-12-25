@@ -1,5 +1,6 @@
 # Army3Mod-PC
-anh em tải ở đây nhé
-![image](https://github.com/user-attachments/assets/194b8cfb-c2fd-4cdf-9dc2-e3ec8e1d0c0d)
+[![Video Title](https://github.com/user-attachments/assets/608a74ec-d301-4a57-a351-8a742d6d8c40)](https://www.youtube.com/watch?v=81w0k8kWhOA)
+
+[Xem Video Hướng dẫn](https://youtu.be/81w0k8kWhOA)
 
 

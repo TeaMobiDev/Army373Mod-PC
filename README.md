@@ -1,6 +1,7 @@
 # Army3Mod-PC v0.0.6
 Update:
 
+<<<<<<< HEAD
 - Fix thông báo  liên tục
 ## Chức năng:
 - Thêm lệnh chat: [
@@ -8,6 +9,14 @@ Update:
 - `atc` - bật tắt auto chat.
 ]
 
+=======
+- Fix Connect To API
+- Tối ưu API
+- Fix đứng hình
+- Fix Mua it nhanh hơn
+- Ghép ngọc tự động v1
+- Add blacklist
+>>>>>>> bfe4e0df5b33593eb8e0156cd85f1a5f6f1b7e00
 [![Video Title](https://github.com/user-attachments/assets/608a74ec-d301-4a57-a351-8a742d6d8c40)](https://www.youtube.com/watch?v=81w0k8kWhOA)
 
 [Xem Video Hướng dẫn](https://youtu.be/81w0k8kWhOA)

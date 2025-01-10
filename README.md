@@ -8,8 +8,10 @@ Update:
 - `ndchat` - nhập nội dung chat.
 - `atc` - bật tắt auto chat.
 ]
-
+## Hỗ Trợ :
+- Java Jar: [Here](https://github.com/TeaMobiDev/Army371Mod-JAR)
 =======
+
 - Fix Connect To API
 - Tối ưu API
 - Fix đứng hình

@@ -11,7 +11,7 @@ Update:
 ## Hỗ Trợ :
 
 
-<img src="https://github.com/user-attachments/assets/04180021-1185-4762-9a3b-9fb19df146b6" alt="Ram & Rem dancing" title="It's Ram & Rem dancing, baby~" width="2%" /> Java Jar: [Here](https://github.com/TeaMobiDev/Army371Mod-JAR)
+<img src="https://github.com/user-attachments/assets/04180021-1185-4762-9a3b-9fb19df146b6" alt="Ram & Rem dancing" title="It's Ram & Rem dancing, baby~" width="5%" /> Java Jar: [Here](https://github.com/TeaMobiDev/Army371Mod-JAR)
 
 =======
 

@@ -26,4 +26,4 @@ Update:
 
 [Xem Video Hướng dẫn](https://youtu.be/81w0k8kWhOA)
  ### Author: Soviet Mod
-<img src="https://static.wikitide.net/polandballwiki/thumb/3/35/SovietUnionballDelirium.png/640px-SovietUnionballDelirium.png"  width="20%" />
+<img src="https://github.com/user-attachments/assets/538dfb22-4222-4535-91ce-ed45d67db3ee" width="27%" /> 
